@@ -1,8 +1,8 @@
 # CHGNN-PTP
 
-The code will be made public after the manuscript is accepted!
+The code of Enhanced Pedestrian Trajectory Prediction via Complementary Hypergraph Neural Networks
 
-See you later!
+The code and weights have been released, enjoy it！ You can easily run the model！ To use the pretrained models at checkpoint/ and evaluate the models performance run:  test.py
 
 
 ## Code Structure
