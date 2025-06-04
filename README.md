@@ -24,4 +24,4 @@ The specific code of the training part will be released after the paper is offic
 You can easily run the model！ To use the pretrained models at checkpoint/ and evaluate the models performance run:  test.py
 
 ## Acknowledgement
-Some codes are borrowed from Social-STGCNN, SGCN, IMGCN and DSTIGCN. We gratefully acknowledge the authors for posting their code.
+Some codes are borrowed from Social-STGCNN, SGCN, IMGCN, DSTIGCN, and PCHGCN. We gratefully acknowledge the authors for posting their code.
