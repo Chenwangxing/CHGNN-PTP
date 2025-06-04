@@ -10,7 +10,7 @@ checkpoint folder: contains the trained models
 
 dataset folder: contains ETH, UCY and SDD datasets
 
-model.py: the code of PCHGCN
+model.py: the code of CHGNN
 
 test.py: for testing the code
 
